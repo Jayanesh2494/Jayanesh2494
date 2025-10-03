@@ -14,7 +14,7 @@
   </div>  
 <br/>
 <br/>
-
+<br/>
 <!-- Animated badges -->
 <img src="https://img.shields.io/badge/🇮🇳_From-India-orange?style=for-the-badge&labelColor=138808&color=FF9933"/>
 <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20AI%20%7C%20Full--Stack-blueviolet?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27"/>
