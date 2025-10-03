@@ -33,26 +33,28 @@
 
 </div>
 
-```typescript
-const jayanesh = {
-    location: "India 🇮🇳",
-    role: "AI & Cloud Engineer | Full-Stack Developer",
-    passions: ["Cloud Computing", "Machine Learning", "IoT", "DevOps"],
-    problemSolving: {
-        platforms: ["LeetCode", "GeeksforGeeks", "HackerRank"],
-        totalSolved: "300+",
-        skills: ["Data Structures", "Algorithms", "Competitive Programming"]
-    },
-    currentFocus: [
-        "🤖 Building AI-powered applications with serverless architectures",
-        "☁️ Architecting cloud-native systems on AWS, Azure & GCP",
-        "🔄 Developing MLOps & DevOps pipelines for scalable deployments",
-        "🚀 Creating innovative solutions that bridge AI and Cloud",
-        "💡 Solving complex algorithmic challenges daily"
-    ],
-    lifePhilosophy: "Turning innovative ideas into scalable reality ✨"
-};
-```
+### 💻 My Personal OS
+
+```bash
+Initializing ProfileOS v3.0... OK
+Booting Kernel: ArchitectMind... OK
+System Status: Online & Compiling
+
+// SYSTEM MOTTO
+> echo $lifePhilosophy
+"Turning innovative ideas into scalable reality ✨"
+
+// ACTIVE PROCESSES (CURRENT FOCUS)
+$ ps -aux | grep "focus"
+USER         PID    %CPU  %MEM  COMMAND
+DEV          101    25.0  15.0  /bin/build --stack=AI --arch=Serverless 🤖
+DEV          102    20.0  20.0  /bin/architect --platform=MultiCloud --provider=AWS,Azure,GCP ☁️
+DEV          103    20.0  25.0  /bin/automate --pipeline=MLOps,DevOps --goal=Scale 🔄
+DEV          104    25.0  20.0  /bin/innovate --domain=AI_x_Cloud 🚀
+DEV          105    10.0  20.0  /bin/solve --type=Algorithms --freq=daily 💡
+
+// SYSTEM READY
+Awaiting next challenge... _
 
 <br/>
 
