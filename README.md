@@ -1,19 +1,11 @@
-<h2 align="left">Hi 👋! My name is Jayanesh D and I'm a Developer & AI Enthusiast, from India 🇮🇳</h2>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jayanesh+D;AI+Enthusiast+%7C+Developer+%7C+Cloud+Explorer;Turning+Ideas+into+Code+🚀" alt="Typing SVG" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayanesh2494&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayanesh2494&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<h3>🌱 About Me</h3>
+<h2 align="left">👨‍💻 About Me</h2>
 
 - 🔭 I’m currently working on **AI-Powered Apps, React Native Projects, and Cloud-based Solutions**  
 - 👯 I’m looking to collaborate on **AI, Machine Learning, IoT, and Full-Stack Projects**  
@@ -22,32 +14,37 @@
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/jayanesh2494) | [GitHub](https://github.com/Jayanesh2494)**  
 - ⚡ Fun fact: I love hackathons and turning prototypes into real-world projects 🚀  
 
-###
+---
 
-<h3>🛠 Tech Stack</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+<h2 align="left">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayanesh2494&show_icons=true&theme=radical&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jayanesh2494&theme=radical&hide_border=false" height="160" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayanesh2494&show_icons=true&locale=en&layout=compact&theme=radical" height="150" />
+</div>
 
-<h3>📌 Featured Projects</h3>
+---
+
+<h2 align="left">⚡ Tech Stack</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+</div>
+
+---
+
+<h2 align="left">🚀 Featured Projects</h2>
 
 - 📨 **AI-Powered Delivery Post Office Identification System** – Smart India Hackathon Project  
 - 🐟 **Fish Catch Identification App** – Real-time offline fish species detection and volume estimation  
@@ -55,19 +52,23 @@
 - 📖 **AI StudyBot** – Productivity app with smart notes & reminders  
 - 🚔 **Crime Management System** – Crime data tracking, analysis & prediction  
 
-###
+---
 
-<h3>🌐 Connect with Me</h3>
-<div align="left">
-  <a href="mailto:jayanesh2494@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/jayanesh2494"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://github.com/Jayanesh2494"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" /></a>
+<h2 align="left">🌐 Connect with Me</h2>
+<div align="center">
+  <a href="mailto:jayanesh2494@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jayanesh2494"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Jayanesh2494"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-###
+---
 
-<br clear="both">
+<br clear="both" />
 
-<img src="https://raw.githubusercontent.com/Jayanesh2494/Jayanesh2494/output/snake.svg" alt="Snake animation" />
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jayanesh2494/Jayanesh2494/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
+<!-- Animated Footer Waves -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
