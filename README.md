@@ -6,12 +6,13 @@
 </div>
 
 <div align="center">
-  
+<div>
 <!-- Typing SVG with enhanced styling -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there+👋+I'm+Jayanesh!;AI+%26+Cloud+Enthusiast+☁️;Full-Stack+Developer+💻;300%2B+Problems+Solved+🏆;Turning+Ideas+into+Reality+🚀;Building+the+Future+with+Code+✨" alt="Typing SVG" />
 </a>
-
+  </div>  
+<br/>
 <br/>
 
 <!-- Animated badges -->
