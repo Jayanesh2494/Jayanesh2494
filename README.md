@@ -6,20 +6,19 @@
 </div>
 
 <div align="center">
-<div>
-<!-- Typing SVG with enhanced styling -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there+👋+I'm+Jayanesh!;AI+%26+Cloud+Enthusiast+☁️;Full-Stack+Developer+💻;300%2B+Problems+Solved+🏆;Turning+Ideas+into+Reality+🚀;Building+the+Future+with+Code+✨" alt="Typing SVG" />
-</a>
-  </div>  
-<br/>
-<br/>
-<br/>
-<!-- Animated badges -->
-<img src="https://img.shields.io/badge/🇮🇳_From-India-orange?style=for-the-badge&labelColor=138808&color=FF9933"/>
-<img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20AI%20%7C%20Full--Stack-blueviolet?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-success?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/DSA-300%2B%20Problems%20Solved-gold?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Hi+there+👋+I'm+Jayanesh!;AI+%26+Cloud+Enthusiast+☁️;Full-Stack+Developer+💻;300%2B+Problems+Solved+🏆;Turning+Ideas+into+Reality+🚀;Building+the+Future+with+Code+✨" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇮🇳_From-India-orange?style=for-the-badge&labelColor=138808&color=FF9933"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20AI%20%7C%20Full--Stack-blueviolet?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-success?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/DSA-300%2B%20Problems%20Solved-gold?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27"/>
+</p>
 
 </div>
 
