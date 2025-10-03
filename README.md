@@ -35,7 +35,7 @@
 
 ### 💻 My Personal OS
 
-```bash
+
 Initializing ProfileOS v3.0... OK
 Booting Kernel: ArchitectMind... OK
 System Status: Online & Compiling
