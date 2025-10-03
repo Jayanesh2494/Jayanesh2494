@@ -63,8 +63,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jayanesh2494/Jayanesh2494/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
