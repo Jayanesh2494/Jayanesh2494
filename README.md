@@ -24,37 +24,6 @@
 
 <br/>
 
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 🌟 About Me
-
-</div>
-
-### 💻 My Personal OS
-
-
-Initializing ProfileOS v3.0... OK
-Booting Kernel: ArchitectMind... OK
-System Status: Online & Compiling
-
-// SYSTEM MOTTO
-> echo $lifePhilosophy
-"Turning innovative ideas into scalable reality ✨"
-
-// ACTIVE PROCESSES (CURRENT FOCUS)
-$ ps -aux | grep "focus"
-USER         PID    %CPU  %MEM  COMMAND
-DEV          101    25.0  15.0  /bin/build --stack=AI --arch=Serverless 🤖
-DEV          102    20.0  20.0  /bin/architect --platform=MultiCloud --provider=AWS,Azure,GCP ☁️
-DEV          103    20.0  25.0  /bin/automate --pipeline=MLOps,DevOps --goal=Scale 🔄
-DEV          104    25.0  20.0  /bin/innovate --domain=AI_x_Cloud 🚀
-DEV          105    10.0  20.0  /bin/solve --type=Algorithms --freq=daily 💡
-
-// SYSTEM READY
-Awaiting next challenge... _
 
 <br/>
 
